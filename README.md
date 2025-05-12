@@ -5,10 +5,11 @@ Aquest repositori conté un script en Python que utilitza el model Mistral-7B de
 ---
 
 ## 🗂️ **Contingut del Repositori**
-1. **[`script.py`](/home/adam/Escritorio/tests/mistral.py)**  
+1. **[`script.py`](/mistral.py)**  
    Conté el codi Python per a consumir l'API de Mistral-7B i analitzar els logs d'Apache.
    
-2. **`/venv`**  
+## 🗂️ **Entorn de Python**
+1. **`venv`**  
    Entorn virtual necessari per executar el model, assegurant l'ús d'una versió específica de Python sense afectar altres aplicacions.
 
 ---
