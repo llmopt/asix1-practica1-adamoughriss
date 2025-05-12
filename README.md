@@ -65,9 +65,4 @@ source venv/bin/activate
 python script.py
 ```
 
----
 
-## ✍️ **Autor**  
-Projecte desenvolupat per Adam Oughriss.
-
----
